@@ -1,0 +1,6 @@
+# Travels with the handout, so the key can't be committed from a standalone candidate repo.
+.env
+.venv/
+.deepeval/
+.pytest_cache/
+__pycache__/

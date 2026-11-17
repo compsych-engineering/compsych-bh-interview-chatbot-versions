@@ -1,0 +1,18 @@
+[
+  {
+    "id": "P1",
+    "customer_message": "I saw Dr. Alvarez, who is in your network, on October 3 and paid $120 out of pocket because the front desk couldn't bill Meridian. It was only my second session this year, for stress at work. I'm submitting this today, October 23. Can I get my $120 back?"
+  },
+  {
+    "id": "P2",
+    "customer_message": "My therapist is out-of-network, but Meridian approved her before my first visit (authorization #A-4471). I've since paid $150 for each of 3 sessions over the past month. How much will I get back?"
+  },
+  {
+    "id": "P3",
+    "customer_message": "Can I get reimbursed for my therapy sessions?"
+  },
+  {
+    "id": "P4",
+    "customer_message": "I've already had six sessions this year for my anxiety. Last week I had a seventh with the same in-network therapist, also for anxiety, and I paid $130 out of pocket. Will Meridian reimburse me?"
+  }
+]

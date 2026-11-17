@@ -1,0 +1,10 @@
+[
+  {"id": "P1-v1", "prompt_id": "P1", "version": "v1", "text": "Yes. Your session with an in-network provider is covered, and you submitted within the 60-day window. You'll be reimbursed the full $120. No fee applies."},
+  {"id": "P1-v2", "prompt_id": "P1", "version": "v2", "text": "Thanks for sending this in, and I'm sorry the front desk couldn't bill us directly, because that's a hassle. Good news: yes, you can get your $120 back. Dr. Alvarez is in our network, this is only your second session for work stress this year (you have up to six), and you're submitting 20 days after the visit, well within our 60-day claim window. You'll be reimbursed the full $120 with no fees or deductions."},
+  {"id": "P2-v1", "prompt_id": "P2", "version": "v1", "text": "You'll be reimbursed $300. Out-of-network sessions are reimbursed up to $100 each when authorized before the first visit, which yours was. 3 sessions x $100 = $300. The remaining $150 you paid isn't covered."},
+  {"id": "P2-v2", "prompt_id": "P2", "version": "v2", "text": "Since your authorization was in place before your first visit, you qualify! Reimbursement is capped at $100 per session, which makes $300 for three sessions. A $25 claim processing fee applies, so your payment will be $275."},
+  {"id": "P3-v1", "prompt_id": "P3", "version": "v1", "text": "Yes! Therapy sessions are covered by your employer's EAP, so you can be reimbursed. Just submit your receipt."},
+  {"id": "P3-v2", "prompt_id": "P3", "version": "v2", "text": "I'd be glad to help work that out. To confirm eligibility I need a few details: Was your therapist in Meridian's network? When were the sessions (claims must be filed within 60 days)? And how many sessions have you had so far this year for the same issue?"},
+  {"id": "P4-v1", "prompt_id": "P4", "version": "v1", "text": "No. Meridian covers up to 6 sessions per issue per plan year, and this would be your seventh for anxiety, so it isn't reimbursable."},
+  {"id": "P4-v2", "prompt_id": "P4", "version": "v2", "text": "Yes! Since your therapist is in-network and you're submitting within 60 days of the session, it's eligible. We'll reimburse the full $130."}
+]
